@@ -1,0 +1,3 @@
+# debian/1%11.1.2+ds-3
+git_src_commit 43bd193711c379c90abb643315170055f9448061 https://salsa.debian.org/qemu-team/qemu.git 
+version_suffix="gl0~bp2150"
